@@ -1,0 +1,4 @@
+proje
+=====
+
+ilk projem
